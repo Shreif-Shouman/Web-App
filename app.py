@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 # Custom HTML/CSS for the banner
 custom_html = """
 <div class="banner">
-  <img src="https://www.iaea.org/sites/default/files/styles/2016_landing_page_banner_1140x300/public/iaea-landing-page-banner.jpg" alt="Banner Image">
+  <img src="https://www.iaea.org/sites/default/files/24/03/iaea-landing-page-banner.jpg" alt="Banner Image">
 </div>
 <style>
 .banner {
